@@ -15,5 +15,3 @@ Instructions for how to build the project
 Instructions for how to use the project
 1 Click on the link http://localhost:8080/ to run the project in the browser.
 2 After running the project, check everything is working fine or not.
-
-Deploying test
